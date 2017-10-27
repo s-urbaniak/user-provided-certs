@@ -1,0 +1,5 @@
+.terraform
+*.tfstate
+generated
+terraform.tfvars
+terraform.tfstate.backup
